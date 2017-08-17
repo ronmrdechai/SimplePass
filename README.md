@@ -1,4 +1,4 @@
-# SimplePass: A Simple Password Manager
+# SimplePass: A simple password manager
 
 _SimplePass_ is a simple password manager based on
 [this](https://news.ycombinator.com/item?id=14777049) HackerNews comment. It

@@ -1,3 +1,2 @@
 #!/bin/bash
-
-rm -rf build dist setup.py
+rm -rf SimplePass.app build dist

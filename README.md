@@ -23,5 +23,4 @@ To build this app you will need `pyobjc` and `py2app`. Install them with pip:
 
 Then build with
 
-    py2app --make-setup SimplePass.py
-    python setup.py py2app
+    py2applet SimplePass.py
